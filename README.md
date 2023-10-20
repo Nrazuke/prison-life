@@ -2,5 +2,5 @@
 # Work In Progress
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Nrazuke/prison-life/main/neli.lua"))()
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Nrazuke/prison-life/main/neli.lua"))()
 ```
